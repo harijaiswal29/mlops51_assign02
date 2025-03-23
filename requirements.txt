@@ -1,0 +1,31 @@
+# Core dependencies
+numpy>=1.20.0
+pandas>=1.3.0
+matplotlib>=3.4.0
+seaborn>=0.11.0
+tensorflow>=2.8.0
+scikit-learn>=1.0.0
+
+# Image processing
+opencv-python>=4.5.0
+scikit-image>=0.18.0
+
+# Statistical and utility libraries
+scipy>=1.7.0
+joblib>=1.1.0
+
+# Automated EDA tools
+ydata-profiling>=4.0.0  # formerly pandas-profiling
+sweetviz>=2.1.3
+dtale>=2.8.0
+
+# Explainability libraries
+shap>=0.40.0
+lime>=0.2.0
+
+# AutoML and hyperparameter optimization
+lazypredict>=0.2.12
+optuna>=2.10.0
+
+# Model tracking and monitoring
+mlflow>=1.26.0
